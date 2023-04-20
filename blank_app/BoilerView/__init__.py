@@ -1,1 +1,0 @@
-from .mainview import App
